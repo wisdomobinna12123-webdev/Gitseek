@@ -164,7 +164,7 @@ input[type="text"] {
     background: var(--accent);
     color: var(--white);
 
-    font-size: var(--space-5);
+    font-size: var(--space-4);
 
     cursor: pointer;
 }
