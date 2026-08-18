@@ -14,7 +14,7 @@ GitSeek is a fast, responsive PWA built with HTML, CSS, and Vanilla JavaScript.
 - **Robotic UI** - Custom styling with Orbitron font for that tech vibe
 
 ## 🚀 Live Demo
-[View Live Site](https://wisdomobinna12123.github.io/Gitseek) 
+[View Live Site](https://wisdomobinna12123-webdev.github.io/Gitseek/) 
 
 ## 🛠️ Tech Stack
 - **HTML5** - Semantic structure
